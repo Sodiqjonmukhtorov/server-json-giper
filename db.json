@@ -225,5 +225,49 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJ8b2N_4ShFWzlXz6lZ5cOcTO-1V22V-WNQ&s",
     "price": "150.000 UZS"
   }
+],
+"feedback": [
+  {
+    "id": 1,
+    "name": "Axmadjon Axmadjanov",
+    "accauntimg": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Account_Logo.svg",
+    "disciption": "Thanks to your site, I have repeated many topics and learned a lot of new things. I especially likehe Teacher method. I would like to go through it until the very last lesson.",
+    "note" : [
+      {
+        "id": 1,
+        "name": "My Grammar Notes",
+        "img": "https://cdn6.aptoide.com/imgs/9/c/8/9c87089bcdbdb6c934d7a592f573aca3_icon.png",
+        "rading": "4,5 ⭐⭐⭐⭐⭐"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Axmadjon Axmadjanov",
+    "accauntimg": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Account_Logo.svg",
+    "disciption": "Thanks to your site, I have repeated many topics and learned a lot of new things. I especially likehe Teacher method. I would like to go through it until the very last lesson.",
+    "note" : [
+      {
+        "id": 2,
+        "name": "My Grammar Notes",
+        "img": "https://cdn6.aptoide.com/imgs/9/c/8/9c87089bcdbdb6c934d7a592f573aca3_icon.png",
+        "rading": "4,5 ⭐⭐⭐⭐⭐"
+      }
+    ]
+  }, 
+  {
+    "id": 3,
+    "name": "Axmadjon Axmadjanov",
+    "accauntimg": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Microsoft_Account_Logo.svg",
+    "disciption": "Thanks to your site, I have repeated many topics and learned a lot of new things. I especially likehe Teacher method. I would like to go through it until the very last lesson.",
+    "note" : [
+      {
+        "id": 3,
+        "name": "My Grammar Notes",
+        "img": "https://cdn6.aptoide.com/imgs/9/c/8/9c87089bcdbdb6c934d7a592f573aca3_icon.png",
+        "rading": "4,5 ⭐⭐⭐⭐⭐"
+      }
+    ]
+  }
 ]
 }
