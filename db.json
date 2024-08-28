@@ -26,31 +26,31 @@
     {
       "name": "Years of experience",
       "price": "15+",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12KNRhvhstHur5MuMH-s0EofAyUnUrllgHA&s",
+      "img": "https://superdesigner.co/bg/blob.svg",
       "id": 1
     },
     {
       "name": "Students",
       "price": "300+",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12KNRhvhstHur5MuMH-s0EofAyUnUrllgHA&s",
+      "img": "https://superdesigner.co/bg/blob.svg",
       "id": 2
     },
     {
       "name": "Views",
       "price": "1M+",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12KNRhvhstHur5MuMH-s0EofAyUnUrllgHA&s",
+      "img": "https://superdesigner.co/bg/blob.svg",
       "id": 3
     },
     {
       "name": "Students worldwide",
       "price": "100K+",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12KNRhvhstHur5MuMH-s0EofAyUnUrllgHA&s",
+      "img": "https://superdesigner.co/bg/blob.svg",
       "id": 4
     },
     {
       "name": "Courses",
       "price": "10+",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12KNRhvhstHur5MuMH-s0EofAyUnUrllgHA&s",
+      "img": "https://superdesigner.co/bg/blob.svg",
       "id": 5
     }
   ],
@@ -185,5 +185,45 @@
   "data": "February 18, 2021",
   "view": "749"
 }
+],
+"books": [
+  {
+    "id": 1,
+    "name": "Hello, little academic",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1u-SvkYVRLJA77pwu9zPutsBqTkeWrZgM1Q&s",
+    "price": "35.000 UZS"
+  },
+  {
+    "id": 1,
+    "name": "Hello, little academic",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1u-SvkYVRLJA77pwu9zPutsBqTkeWrZgM1Q&s",
+    "price": "35.000 UZS"
+  },
+  {
+    "id": 1,
+    "name": "Hello, little academic",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1u-SvkYVRLJA77pwu9zPutsBqTkeWrZgM1Q&s",
+    "price": "35.000 UZS"
+  }
+],
+"shop":[
+  {
+    "id": 1,
+    "name": "Classic Long Sleeve Tee",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJ8b2N_4ShFWzlXz6lZ5cOcTO-1V22V-WNQ&s",
+    "price": "150.000 UZS"
+  },
+  {
+    "id": 2,
+    "name": "Classic Long Sleeve Tee",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJ8b2N_4ShFWzlXz6lZ5cOcTO-1V22V-WNQ&s",
+    "price": "150.000 UZS"
+  },
+  {
+    "id": 3,
+    "name": "Classic Long Sleeve Tee",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJ8b2N_4ShFWzlXz6lZ5cOcTO-1V22V-WNQ&s",
+    "price": "150.000 UZS"
+  }
 ]
 }
